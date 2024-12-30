@@ -12,6 +12,9 @@
 - Gain insights into trends, cancellations, and revenue breakdowns.
 
 This dataset is ideal for practicing data visualization and Power BI reporting skills.
+
+[Download Dataset](https://github.com/Manish-Singh12/Online_Ride_Booking_Analysis_Using_PowerBI/blob/main/Bengaluru_Booking_Data_November_2024.csv)
+
 ## 🎯 Dashboards Overview
 
 ### 📊 **Home**
