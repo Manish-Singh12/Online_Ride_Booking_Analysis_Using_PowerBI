@@ -1,5 +1,6 @@
-
 # 🚖 Power BI Report: Bengaluru Booking Analysis for November 2024
+
+## [Live Report](https://app.powerbi.com/view?r=eyJrIjoiNGYwMzFmNTYtNmU4MS00MDBhLTk0YjEtY2JmYjQ3YjUxYjY0IiwidCI6IjIyYzM5ZWQxLTA4ZWMtNDU5NC1iYzYyLTIyNWEwNzRjN2FkOSJ9)
 
 ![Online Ride Booking](https://github.com/Manish-Singh12/Online_Ride_Booking_Analysis_Using_PowerBI/blob/main/ride%20booking.png "a title")
 
